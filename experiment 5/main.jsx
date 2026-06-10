@@ -1,4 +1,3 @@
-// AAYUSHI SHARMA
 let employees = [];
 
 function addEmployee() {
