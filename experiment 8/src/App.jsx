@@ -10,7 +10,7 @@ function App() {
     <>
       <h1>Hello {name}</h1>
       
-      {/* <Props name="Abhay" rollno="25B012232432" course="B.Tech"/> */}
+      {}
       <UseState/>
     </>
   )
