@@ -1,4 +1,3 @@
-//AAYUSHI SHARMA 
 let heading = document.getElementById("mainHeading");
 let paragraph = document.getElementById("paragraph");
 let input = document.getElementById("userInput");
